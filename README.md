@@ -32,3 +32,6 @@ The red fluorescence labeled cells form clusters during the brain development. I
 #Feedback
 1.	Made changes to the layout templates or some other part of the code? Fork this repository, make your changes, and send a pull request.
 2.	Do these codes help on your research? Please cite as the follows. Paper title. Authors. Jouranl.
+
+#Structure
+![alt text](https://github.com/peggyschsu/Cell-grouping/blob/structure.png?raw=true)
