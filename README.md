@@ -5,6 +5,9 @@ The red fluorescence labeled cells form clusters during the brain development. I
 1.	Developmental biology
 2.	Cell classification
 
+#Demo image
+![Demo](https://user-images.githubusercontent.com/67047201/113233835-adb46400-92d2-11eb-99f6-45804ad7fd39.PNG)
+
 #Description
 1.	Two scripts are available in this repository.
 2.	The cluster regions according to the red fluorescence image are manually defined in image J to save as a roi list—Red cluster ROI list, while nucleus of interested cells are manually circled in image J and save as another roi list—Nucleus ROI list.
