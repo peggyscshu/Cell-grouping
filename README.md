@@ -1,4 +1,4 @@
-# Cell-grouping analysis
+# Cell-grouping analysis [![DOI](https://zenodo.org/badge/353277738.svg)](https://zenodo.org/badge/latestdoi/353277738)
 The red fluorescence labeled cells form clusters during the brain development. In order to understand the distribution of interested cells in different red clusters, we developed these tools to automatically define the cluster code to each interested nucleus.
 
 #Examples
