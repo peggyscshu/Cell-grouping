@@ -34,7 +34,7 @@ The red fluorescence labeled cells form clusters during the brain development. I
 
 #Feedback
 1.	Made changes to the layout templates or some other part of the code? Fork this repository, make your changes, and send a pull request.
-2.	Do these codes help on your research? Please cite as the follows. Paper title. Authors. Jouranl.
+2.	Do these codes help on your research? Please cite as the follows. Feng, J., et al., COUP-TFI specifies the medial entorhinal cortex identity and induces differential cell adhesion to determine the integrity of its boundary with neocortex. Sci Adv, 2021. 7(27).
 
 #Structure
 ![Structure](https://user-images.githubusercontent.com/67047201/113121553-5b793180-9245-11eb-87ba-553fa6fb759b.PNG)
